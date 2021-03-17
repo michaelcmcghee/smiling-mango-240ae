@@ -8,7 +8,9 @@
 // use initialized flag to ensure that window.onGatsbyPreRouteUpdate() and
 // window.onGatsbyRouteUpdate() will not be called before
 // window.onGatsbyInitialClientRender() has run
-import "./src/css/index.css"
+
+
+
 let initialized = false;
 
 exports.onInitialClientRender = () => {
