@@ -7,5 +7,9 @@ module.exports = {
   variants: {
     extend: {},
   },
+<<<<<<< Updated upstream
   plugins: [],
 }
+=======
+  plugins: [}
+>>>>>>> Stashed changes
