@@ -15,8 +15,8 @@
     "classnames": "^2.2.6",
     "fs-extra": "^7.0.1",
     "gatsby": "latest",
-    "gatsby-plugin-sass": "^2.3.12",
     "gatsby-plugin-react-helmet": "^3.3.3",
+    "gatsby-plugin-sass": "^2.3.12",
     "gatsby-source-filesystem": "2.3.10",
     "gatsby-transformer-remark": "2.8.14",
     "js-yaml": "^3.12.2",
@@ -35,6 +35,9 @@
     "sprintf-js": "^1.1.2"
   },
   "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "gatsby-plugin-postcss": "^4.1.0",
+    "postcss": "^8.2.8",
     "tailwindcss": "^2.0.3"
   }
 }
